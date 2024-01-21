@@ -40,7 +40,7 @@ p1 {
 .bottomleft {
   position: relative;
   bottom:30px;
-  left: 30px;
+  right: 16px;
   font-size: 14px;
 }
 /* Add more styles as needed */
