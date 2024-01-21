@@ -26,13 +26,13 @@ p1 {
     color: #000000;
 }
 .bottomright {
-  position: relative;
+  position: absolute;
   bottom: 2px;
   right: 16px;
   font-size: 18px;
 }
 .bottomright2 {
-  position: relative;
+  position: absolute;
   bottom:30px;
   right: 16px;
   font-size: 14px;
