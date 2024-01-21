@@ -39,8 +39,8 @@ p1 {
 }
 .bottomleft {
   position: absolute;
-  bottom:0px;
-  left: 0px;
+  bottom:0=30px;
+  left: 16px;
   font-size: 14px;
 }
 /* Add more styles as needed */
