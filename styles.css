@@ -38,7 +38,7 @@ p1 {
   font-size: 14px;
 }
 .bottomleft {
-  position: absolute;
+  position: relative;
   bottom:2px;
   left: 16px;
   font-size: 14px;
