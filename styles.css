@@ -39,7 +39,7 @@ p1 {
 }
 .bottomleft {
   position: absolute;
-  bottom:30px;
+  bottom:2px;
   left: 16px;
   font-size: 14px;
 }
