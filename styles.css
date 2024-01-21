@@ -1,0 +1,61 @@
+/* styles.css */
+
+/* CSS styles go here */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #EAEAEA;
+	/*background-color: #f0f0f0;*/
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #400;
+	font-size: 40px;
+	text-align: center;
+}
+
+p {
+    color: #FFA500;
+}
+h2 {
+    color: #FFA500;
+}
+
+p1 {
+    color: #000000;
+}
+.bottomright {
+  position: absolute;
+  bottom: 2px;
+  right: 16px;
+  font-size: 18px;
+}
+.bottomright2 {
+  position: absolute;
+  bottom:30px;
+  right: 16px;
+  font-size: 14px;
+}
+/* Add more styles as needed */
+
+
+/************************************************** Style Guide**************************************************/
+/*
+P1 = black
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
