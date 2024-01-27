@@ -36,11 +36,57 @@ p1 {
   right: 16px;
   font-size: 18px;
 }
+.toprightactualresults {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 18px;
+}
+.toprightmock2 {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 18px;
+}
+.toprightmock1 {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 18px;
+}
 .bottomright2 {
   position: fixed;
   bottom:30px;
   right: 16px;
   font-size: 14px;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  text-align: center;
+  width: 60%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #04AA6D;
+  color: black;
 }
 
 /* Add more styles as needed */
