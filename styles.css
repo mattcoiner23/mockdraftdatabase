@@ -31,7 +31,7 @@ p1 {
     color: #000000;
 }
 .bottomright {
-  position: relative;
+  position: fixed;
   bottom: 2px;
   right: 16px;
   font-size: 18px;
@@ -55,7 +55,7 @@ p1 {
   font-size: 18px;
 }
 .bottomright2 {
-  position: relative;
+  position: fixed;
   bottom:30px;
   right: 16px;
   font-size: 14px;
