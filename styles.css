@@ -24,6 +24,16 @@ h5 {
 	font-size: 20px;
 	text-align: center;
 }
+h20 {
+    color: #000000;
+	font-size: 20px;
+	text-align: center;
+}
+h21 {
+    color: #000000;
+	font-size: 12px;
+	text-align: center;
+}
 
 p {
     color: #FFA500;
