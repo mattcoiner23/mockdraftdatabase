@@ -38,6 +38,18 @@ h21 {
 p {
     color: #FFA500;
 }
+p2 {
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+	
+}
+p3 {
+    color: #000000;
+    font-size: 12px;
+    text-align: center;
+	
+}
 h2 {
     color: #FFA500;
 }
