@@ -109,7 +109,7 @@ p1 {
 }
 
 #customers td, #customers th {
-  border: 1px solid #ddd;
+  border: 10px solid #000000;
   padding: 8px;
   text-align: center;
 }
