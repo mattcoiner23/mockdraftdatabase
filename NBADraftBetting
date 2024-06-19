@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Matt Coiner's Mock Draft Database">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" type="text/css" href="styles.css">
+
+    <title> Home | Matt Coiner's Mock Draft Database</title>
+</head>
+
+<header>
+    <div class="topnav" id="myTopnav">
+        <a href="https://mattcoiner23.github.io/mockdraftdatabase/" class="active">Home</a>
+        <a href="https://linktr.ee/betgptpodcast">Podcast</a>
+        <a href="https://twitter.com/mattcoiner23">Twitter</a>
+        <a href="https://mattcoiner23.github.io/mockdraftdatabase/aboutme.html">About</a>
+        <br>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()"></a>
+</header>
+
+<style>
+    /* You can add some CSS styles here */
+    body {
+        font-family: Arial, sans-serif;
+        margin: 10px;
+    }
+    
+    p {
+        color: #000000;
+        line-height: 1.6;
+        text-align: center;
+    }
+
+    /* Add border to table */
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        border: 1px solid #000000; /* Border color */
+    }
+
+    th, td {
+        border: 10px solid black; /* Border color */
+        padding: 8px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f2f2f2; /* Header background color */
+    }
+</style>
+
+
+
+    <main>
+        <section> 
+		<h1> NBA Draft Betting Results</h1>
+		<body>
+<h3>
+<br>
+<br>
+<br>
+<!--	
+<a href="https://mattcoiner23.github.io/mockdraftdatabase/2024MockDraft_ActualResults.html" class="active">2024 Actual Results</a>
+-->
+<br>
+<br>
+<br>
+<a href="https://docs.google.com/spreadsheets/d/1fWh-16JzTHODLv-msLgeIiCpi3lbMutCwEGlnk3iXYE/edit?gid=0#gid=0" class="active">2024 NBA Draft Betting (Updated Daily)</a>
+<br>
+</h3>
+        </section>
+		
+    </main>
+
+
+	</a>
+	</div>
+	</header>
